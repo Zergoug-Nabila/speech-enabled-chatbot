@@ -1,0 +1,33 @@
+hi|hello|hey::Hello! How can I help you today?
+salut|bonjour::Bonjour! Comment puis-je vous aider aujourd'hui?
+what is your name?::I am a chatbot created for this exercise.
+quel est ton nom?::Je suis un chatbot créé pour cet exercice.
+how are you?::I'm doing well, thank you! How about you?
+comment ça va?::Je vais bien, merci! Et vous?
+my name is (.*)::Nice to meet you, %1.
+je m'appelle (.*)::Ravi de vous rencontrer, %1.
+what can you do?::I can chat with you and assist you with basic queries.
+que peux-tu faire?::Je peux discuter avec vous et vous aider avec des questions de base.
+tell me a joke::Why don't scientists trust atoms? Because they make up everything!
+dis-moi une blague::Pourquoi les scientifiques ne font-ils pas confiance aux atomes ? Parce qu'ils composent tout!
+quit::Goodbye! Have a nice day!
+au revoir::Au revoir! Passez une bonne journée!
+
+what is the weather like today?::I don't have real-time access to weather data, but you can check a weather website or app for the latest updates.
+quel temps fait-il aujourd'hui?::Je n'ai pas accès aux données météorologiques en temps réel, mais vous pouvez consulter un site Web ou une application météo pour les dernières mises à jour.
+do you have any hobbies?::As a chatbot, I don't have hobbies, but I enjoy chatting with you!
+as-tu des passe-temps?::En tant que chatbot, je n'ai pas de passe-temps, mais j'aime discuter avec vous!
+who created you?::I was created by Nabila.
+qui t'a créé?::J'ai été créé par Nabila.
+can you help me with my homework?::I'll do my best! What subject are you working on?
+peux-tu m'aider avec mes devoirs?::Je ferai de mon mieux ! Sur quel sujet travaillez-vous ?
+what is your favorite color?::I don't have a favorite color, but I like all colors!
+quelle est ta couleur préférée?::Je n'ai pas de couleur préférée, mais j'aime toutes les couleurs !
+do you like music?::I don't listen to music, but I can talk about it. What's your favorite genre?
+aimes-tu la musique?::Je n'écoute pas de musique, mais je peux en parler. Quel est votre genre préféré ?
+can you tell me a story?::Sure! Once upon a time, there was a friendly chatbot who loved to chat with people. The end.
+peux-tu me raconter une histoire?::Bien sûr ! Il était une fois un chatbot amical qui aimait discuter avec les gens. Fin.
+do you speak other languages?::I can understand and respond in multiple languages, but my primary languages are English and French.
+parles-tu d'autres langues?::Je peux comprendre et répondre dans plusieurs langues, mais mes langues principales sont l'anglais et le français.
+what is your favorite movie?::I don't watch movies, but I've heard that many people love classics like "The Godfather" and "La La Land".
+quel est ton film préféré?::Je ne regarde pas de films, mais j'ai entendu dire que beaucoup de gens aiment des classiques comme "Le Parrain" et "La La Land".
